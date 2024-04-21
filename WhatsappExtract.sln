@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "WhatsappExtract", "WhatsappExtract\WhatsappExtract.pyproj", "{415966EB-C12D-463D-9F98-D3B352E4C544}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{415966EB-C12D-463D-9F98-D3B352E4C544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415966EB-C12D-463D-9F98-D3B352E4C544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5865B9D4-DEE5-4246-AB41-14E7013EA16D}
+	EndGlobalSection
+EndGlobal
